@@ -1,0 +1,21 @@
+CONFEDERACIONES: ID(PK), titulo, texto,fechaHoraPresentacion
+
+ACUAITEMS: ID (PK), nombre
+
+CANALES: longitud, caudalMaximo,fechaInauguracion
+
+RESERVAS: nivelMaximo, nivelMinimo, cantidadAlmacenada, capacidadMaxima
+
+CENRALESHIDROELECTRICAS: nombre, potencia, empresa
+
+EDAR: nombre(PK), direccion. empresaGestora,capacidad
+
+POTABILIZADORAS: capacidad, empresaGestora
+
+POBLACIONES: nombre(PK),provincia(PK), numHabitantes, compañiaSuministradora
+
+COMUNIDADINTEGRANTES: localidad, numeroSocios, hectareasRegadio
+
+TOMA: ID(PK), latitud, longitud, potencia, caudal
+
+REDES: ID(PK), nombre
