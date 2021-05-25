@@ -1,0 +1,2 @@
+SonarLint es un plugin que encuentra incidencias mientras escribimos el código para localizarlas, explicarlas y 
+darnos una solución. Se usa en pruebas estáticas (revisiones del código)

@@ -1,0 +1,19 @@
+Principio 1: Las pruebas demuestran la presencia de defectos, no su ausencia, es decir, nuestros programas siempre
+tienen bugs.
+
+Principio 2: Las pruebas exhaustivas no existen (o son imposibles) , es decir, no podemos hacer demasiadas pruebas
+con muchas combinaciones.
+
+Principio 3: Las Pruebas Tempranas ahorran tiempo y dinero, es decir, hacer pruebas cuando tenemos poco código para
+no ir acumulando bugs.
+
+Principio 4: Agrupación de defectos, es decir, si hay un bug, probablemente haya más.
+
+Principio 5: Tener cuidado con la paradoja del pesticida, es decir, si hacemos las mismas pruebas siempre, ya no
+detectarán errores, asi que hay que probar con otros datos.
+
+Principio 6: Las pruebas dependen del contexto, no se realizan las mismas pruebas para el software de
+un avión por ejemplo que para el software de una aplicación.
+
+Principio 7: Falacia de ausencia de errores, es decir, que arreglando muchos bugs o errores podemos asegurar el
+éxito.
