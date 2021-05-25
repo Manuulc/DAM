@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ENatural xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.dom.es/enatural.xsd">
+
+
+<nombre_comun> Gorrion </nombre_comun>
+<nombre_cientifico> Passer Domesticus </nombre_cientifico>
+<poblacion_detectada> 4000 </poblacion_detectada>
+<num_hembras_fertiles> 1500 </num_hembras_fertiles>
+<alimentacion> Herviboro </alimentacion>
+<mes_epoca_cria> Mayo </mes_epoca_cria>
+<edad_adulta> 5 meses</edad_adulta>
+
+</ENatural>

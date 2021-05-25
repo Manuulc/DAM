@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ENatural [
+<!ELEMENT ENatural (nombre_comun,nombre_cientifico,poblacion_detectada,num_hembras_fertiles,alimentacion,mes_epoca_cria,edad_adulta)>
+<!ELEMENT nombre_comun (#PCDATA)>
+<!ELEMENT nombre_cientifico (#PCDATA)>
+<!ELEMENT poblacion_detectada (#PCDATA)>
+<!ELEMENT num_hembras_fertiles (#PCDATA)>
+<!ELEMENT alimentacion (#PCDATA)>
+<!ELEMENT mes_epoca_cria (#PCDATA)>
+<!ELEMENT edad_adulta (#PCDATA)>
+
+]>
+
+<ENatural>
+
+<nombre_comun> Gorrion </nombre_comun>
+<nombre_cientifico> Passer Domesticus </nombre_cientifico>
+<poblacion_detectada> 4000 </poblacion_detectada>
+<num_hembras_fertiles> 1500 </num_hembras_fertiles>
+<alimentacion> Herviboro </alimentacion>
+<mes_epoca_cria> Mayo </mes_epoca_cria>
+<edad_adulta> 5 meses</edad_adulta>
+
+</ENatural>

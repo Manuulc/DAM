@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juguete xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="juguete.xsd">
+
+<juguete>
+
+<nombre>Pepe</nombre>
+
+<marca>Playmobil</marca>
+
+<precio>34</precio>
+
+<categoria>Educativo</categoria>
+<categoria>Juego de mesa</categoria>
+<categoria>Muñeco</categoria>
+
+<edad_minima>6</edad_minima>
+
+</juguete>

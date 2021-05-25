@@ -1,0 +1,80 @@
+<bichos>
+	<animal nombre="gallina">
+		<tipo>ave</tipo>
+		<alimentacion>pienso</alimentacion>
+		<produccion>
+			<producto>huevos</producto>
+			<producto>carne</producto>
+		</produccion>
+	</animal>
+	<animal nombre="vaca">
+		<tipo>bovino</tipo>
+		<alimentacion>pienso</alimentacion>
+		<alimentacion>pasto</alimentacion>
+		<produccion>
+			<producto>leche</producto>
+			<producto>carne</producto>
+		</produccion>
+	</animal>
+	<animal nombre="cerdo">
+		<tipo>porcino</tipo>
+		<alimentacion>pienso</alimentacion>
+		<alimentacion>varios</alimentacion>
+		<produccion>
+			<producto>carne</producto>
+		</produccion>
+	</animal>
+	<animal nombre="caballo">
+		<tipo>equino</tipo>
+		<alimentacion>pienso</alimentacion>
+		<alimentacion>paja</alimentacion>
+		<produccion>
+			<producto>transporte</producto>
+			<producto>carne</producto>
+		</produccion>
+	</animal>
+	<animal nombre="caracol">
+		<tipo>gasteropodo</tipo>
+		<alimentacion>cosas de caracoles</alimentacion>
+		<produccion>
+			<producto>baba</producto>
+			<producto>carne</producto>
+		</produccion>
+	</animal>
+	<animal nombre="avestruz">
+		<tipo>ave</tipo>
+		<alimentacion>pienso</alimentacion>
+		<alimentacion>bichos</alimentacion>
+		<produccion>
+			<producto>plumas</producto>
+			<producto>huevos</producto>
+			<producto>carne</producto>
+		</produccion>
+	</animal>
+	<animal nombre="oca">
+		<tipo>ave</tipo>
+		<alimentacion>pienso</alimentacion>
+		<produccion>
+			<producto>baba</producto>
+			<producto>carne</producto>
+		</produccion>
+	</animal>
+	<animal nombre="bufalo">
+		<tipo>bovino</tipo>
+		<alimentacion>pienso</alimentacion>
+		<alimentacion>grano</alimentacion>
+		<produccion>
+			<producto>leche</producto>
+			<producto>carne</producto>
+		</produccion>
+	</animal>
+	<animal nombre="burro">
+		<tipo>equino</tipo>
+		<alimentacion>pienso</alimentacion>
+		<alimentacion>paja</alimentacion>
+		<produccion>
+			<producto>transporte</producto>
+			<producto>carne</producto>
+		</produccion>
+	</animal>
+</bichos>

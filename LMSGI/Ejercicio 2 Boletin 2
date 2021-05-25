@@ -1,0 +1,52 @@
+<?xml version="1.0 " encoding=" UTF-8 " ?>
+
+<pedido>
+
+<destinatario>
+
+         <nombre> Alberto Zudo </nombre>
+		 
+		 <numero> 687954062 </numero>
+		 
+		         <direccion>
+		 
+		             <calle> Calle del Ajo </calle>
+				     <bloque> 17 </bloque>
+				     <piso> Cuarto </piso>
+				     <letra> B </letra>
+		
+                 </direccion>
+		 
+</destinatario>
+
+
+<productos>
+
+<pizzagrande>
+
+     <ingredientegrande> Anchoas </ingredientegrande>		 
+	 <ingredientegrande> Pimientos </ingredientegrande>
+	 
+</pizzagrande>
+
+
+<pizzamediana>
+
+     <ingredientemediana> Salmón </ingredientemediana>
+	 <ingredientemediana> Extra de queso </ingredientemediana>
+	 
+</pizzamediana>
+	 
+<ensalada tipo= "De la casa">  </ensalada>
+
+<bebidas>
+
+     <bebida>Cola Zero </bebida>
+	 <bebida> Aquarius limón </bebida>
+	 
+</bebidas>	 
+	 
+</productos>
+
+
+</pedido>

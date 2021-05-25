@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="ENatural">
+	
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="nombre_comun"/>
+				<xs:element ref="nombre_cientifico"/>
+				<xs:element ref="poblacion_detectada" maxOccurs="unbounded"/>
+				<xs:element ref="num_hembras_fertiles" maxOccurs="unbounded"/>
+				<xs:element ref="alimentacion"/>
+				<xs:element ref="mes_epoca_cria"/>
+				<xs:element ref="edad_adulta" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+		
+				<xs:element name="nombre_comun" type="xs:string"/>
+				<xs:element name="nombre_cientifico" type="xs:string"/>
+				<xs:element name="poblacion_detectada" type="xs:integer"/>
+				<xs:element name="num_hembras_fertiles" type="xs:integer"/>
+				<xs:element name="alimentacion" type="xs:string"/>
+				<xs:element name="mes_epoca_cria" type="xs:string"/>
+				<xs:element name="edad_adulta" type="xs:string"/>
+	
+	</xs:element>
+	
+</xs:schema>
+	

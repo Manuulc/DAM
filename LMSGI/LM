@@ -1,0 +1,62 @@
+<?xml version="1.0 " encoding=" UTF-8 " ?>
+
+<fruta>
+   
+   <listado>
+      
+      <nombre>cereza</nombre>
+      
+      <nombre>naranja</nombre>
+   
+   </listado>
+
+</fruta>
+
+
+
+<?xml version="1.0 " encoding=" UTF-8 " ?>
+
+<triangulos>
+ 
+     <triangulo base="7"> </triangulo>
+     <triangulo altura="5">  </triangulo>
+
+     <triangulo base="2">  </triangulo>
+     <triangulo altura="6"> </triangulo>
+
+     <triangulo base="3"> </triangulo>
+     <triangulo altura="3">  </triangulo>
+
+</triangulos>
+
+
+
+<?xml version="1.0 " encoding=" UTF-8 " ?>
+
+<!-- Documento XML con errores de sintaxis. !-->
+
+<vehiculos>
+   <terrestres>
+   
+       <vehiculo>bicicleta</vehiculo>
+       <vehiculo>coche</vehiculo>
+       <vehiculo>tractor</vehiculo>
+  
+   </terrestres>
+
+   
+   <acuaticos>
+   
+     <vehiculo>canoa</vehiculo>
+
+   </acuaticos>
+
+
+   <aereos>
+   
+   <vehiculo>avioneta</vehiculo>
+   <vehiculo>helicóptero</vehiculo>
+
+   </aereos>
+   
+   </vehiculos>

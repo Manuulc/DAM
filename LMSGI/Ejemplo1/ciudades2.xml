@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ciudades>
+	<ciudad codigo="SVQ">
+		<nombre>Sevilla</nombre>
+		<habitantes>700000</habitantes>
+		<destacados>
+			<persona>Antonio Machado</persona>
+			<persona>María da Padilla</persona>
+		</destacados>
+	</ciudad>
+	<ciudad codigo="LEI">
+		<nombre>Almeria</nombre>
+		<habitantes>200000</habitantes>
+	</ciudad>
+	<ciudad codigo="AGP">
+		<nombre>Malaga</nombre>
+		<habitantes>570000</habitantes>
+		<destacados>
+			<persona>Chiquito de la Calzada</persona>
+			<persona>Victoria Kent</persona>
+		</destacados>
+	</ciudad>
+		<ciudad codigo="XRY">
+		<nombre>Jerez</nombre>
+		<habitantes>212000</habitantes>
+		<destacados>
+			<persona>Lola Flores</persona>
+			<persona>Miguel Primo de Rivera</persona>
+		</destacados>
+	</ciudad>
+</ciudades>

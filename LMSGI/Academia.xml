@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE academia [
+<!ELEMENT academia (idioma,nivel,fecha_inicio,duracion,publico,nivel_requerido,precio,sesiones,duracion_sesiones)>
+<!ELEMENT idioma (#PCDATA)>
+<!ELEMENT nivel (#PCDATA)>
+<!ELEMENT fecha_inicio (#PCDATA)>
+<!ELEMENT duracion (#PCDATA)>
+<!ELEMENT publico (#PCDATA)>
+<!ELEMENT nivel_requerido (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT sesiones (#PCDATA)>
+<!ELEMENT duracion_sesiones (#PCDATA)>
+
+]>
+
+<academia>
+
+<idioma> Ingles </idioma>
+<nivel> B1 </nivel>
+<fecha_inicio> 12/2/2020</fecha_inicio>
+<duracion> 8 semanas </duracion>
+<publico/>
+<nivel_requerido> A1 </nivel_requerido>
+<precio> 200 </precio>
+<sesiones> 2 </sesiones>
+<duracion_sesiones> 2 horas </duracion_sesiones>
+
+</academia>

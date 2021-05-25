@@ -1,0 +1,36 @@
+<pedido fechaentrega="19 05 2020">
+
+
+<objetos>
+
+        <objeto marca="A2023"> Bicicleta </objeto>
+        <objeto marca="C847015"> Casco </objeto>
+
+</objetos>
+
+<datos>
+
+<cliente> 
+
+        <nombre dni="34987502-R"> Juan Delgado Martínez </nombre>
+		
+</cliente>		
+
+<direccion>
+
+        <calle> Barco 4 </calle>
+
+        <piso> Tercero </piso>
+		
+		<letra> A </letra>
+
+        <provincia> Cádiz </provincia>
+
+        <municipio> Trebujena </municipio>
+
+</direccion>       
+
+</datos>
+
+
+</pedido>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ciudades>
+	<ciudad codigo="SVQ">
+		<nombre>Sevilla</nombre>
+		<habitantes>700000</habitantes>
+	</ciudad>
+	<ciudad codigo="LEI">
+		<nombre>Almeria</nombre>
+		<habitantes>200000</habitantes>
+	</ciudad>
+	<ciudad codigo="AGP">
+		<nombre>Malaga</nombre>
+		<habitantes>570000</habitantes>
+	</ciudad>
+		<ciudad codigo="XRY">
+		<nombre>Jerez</nombre>
+		<habitantes>212000</habitantes>
+	</ciudad>
+</ciudades>

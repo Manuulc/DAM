@@ -1,0 +1,17 @@
+{¨dia¨:¨lunes¨}
+{¨estudiante¨:
+[{¨nombre¨:¨Juanjo¨,{[¨Tarea¨:¨sacar_basura¨,¨limpiar_baño¨]}},
+{¨nombre¨:¨Olivia¨,{[¨Tarea¨:¨limpiar_salon¨,¨hacer_la_compra¨]}},
+{¨nombre¨: ¨Benito¨,{[¨Tarea¨:¨hacer_almuerzo¨,¨alimentar_peces¨]}]}
+
+{¨dia¨:¨martes¨}
+{¨estudiante¨:
+[{¨nombre¨:¨Juanjo¨,{[¨Tarea¨:¨hacer_almuerzo¨]}},
+{¨nombre¨:¨Olivia¨,{[¨Tarea¨:¨sacar_basura¨,¨limpiar_ventanas¨]}},
+{¨nombre¨: ¨Benito¨,{[¨Tarea¨:¨regar_plantas¨,¨fregar_platos¨]}]}
+
+{¨dia¨:¨miercoles¨}
+{¨estudiante¨:
+[{¨nombre¨:¨Juanjo¨,{[¨Tarea¨:¨limpiar_habitaciones¨]}},
+{¨nombre¨:¨Olivia¨,[{¨Tarea¨:¨limpiar_baño¨]},},
+{¨nombre¨: ¨Benito¨,[{¨Tarea¨:¨limpiar_cocina¨}]}

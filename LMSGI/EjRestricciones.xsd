@@ -1,0 +1,34 @@
+<xs:element name="mes">
+   <xs:simpleType>
+      <xs:restriction base="xs:integer">
+         <xs:minInclusive value="1"/>
+         <xs:maxInclusive value="12"/>
+      </xs:restriction>
+   </xs:simpleType>
+</xs:element>
+
+<xs:element name="color">
+   <xs:simpleType>
+      <xs:restriction base="xs:string">
+         <xs:enumeration value="verde"/>
+         <xs:enumeration value="amarillo"/>
+         <xs:enumeration value="rojo"/>
+      </xs:restriction>
+   </xs:simpleType>
+</xs:element>
+
+<xs:element name="letra">
+   <xs:simpleType>
+      <xs:restriction base="xs:string">
+         <xs:pattern value="[a-z]"/>
+      </xs:restriction>
+   </xs:simpleType>
+</xs:element>
+
+<xs:element name="clave">
+   <xs:simpleType>
+      <xs:restriction base="xs:string">
+         <xs:length value="12"/>
+      </xs:restriction>
+   </xs:simpleType>
+</xs:element>

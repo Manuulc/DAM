@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<academia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.dom.es/academia.xsd">
+
+
+<idioma> Ingles </idioma>
+<nivel> B1 </nivel>
+<fecha_inicio> 12/2/2020</fecha_inicio>
+<duracion> 8 semanas </duracion>
+<publico/>
+<nivel_requerido> A1 </nivel_requerido>
+<precio> 200 </precio>
+<sesiones> 2 </sesiones>
+<duracion_sesiones> 2 horas </duracion_sesiones>
+
+</academia>
